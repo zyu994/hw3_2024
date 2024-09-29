@@ -142,6 +142,7 @@ nav a:hover, nav a:focus{
   display: grid;
   grid-template-columns: 1fr 5fr 1fr;
   row-gap: 15px;
+  column-gap: 15px;
 }
 
 /* Step 5: Write selector/rule property to add the background image to the 
